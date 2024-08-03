@@ -468,7 +468,7 @@ p {
     text-align: left;
 }
 .icons a {
-    text-align: left;
+    
     text-decoration: none;             
     margin: 0 10px;                  
     font-size: 24px;                
@@ -476,9 +476,7 @@ p {
     transition: color 0.3s;           
 }
 
-.icons a:hover {
-    color: #0077b5;                   
-}
+
 
 .mid {
     text-align: center;                
